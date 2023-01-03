@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Form</title>
+    <link rel="icon" href="image/favicon.png" type="text/css">
+    <link rel="stylesheet" media="screen" href="style.css">
+</head>
+<body>
+    <center>
+    <h1 class="head heading reg."><u>Student Registration From</u></h1></center>
+    <form>
+      <table class="main-form form" border="0">
+        <tr>
+            <th class="th" > First Name:</th>
+            <td><input type="text" name="fname" placeholder="Enter Your First Name"></td>
+        </tr>
+        <tr>
+            <th class="th"> last Name:</th>
+            <td><input type="text" name="lname" placeholder="Enter Your last Name"></td>
+        </tr>
+        <tr>
+            <th class="th"> Email:</th>
+            <td><input type="text" name="fname" placeholder="it Should contain @"></td>
+        </tr>
+        <tr>
+            <th class="th"> Mobile:</th>
+            <td><input type="tel" name="no." placeholder="only 10 digit no." pattern="[0-9]{4} [0-9]{3} [0-9] {4}"></td>
+        </tr>
+        <tr>
+            <th class="th"> Gender:</th>
+            <td><input type="radio" name="male">Male <input type="radio" name="male">female</td>
+        </tr>
+        <tr>
+            <th class="th"> Date of Birth</th>
+            <td> <input type="date"></td>
+        </tr>
+        <tr>
+            <th class="th" > Address:</th>
+            <td><textarea type="text" name="add" placeholder="address" class="add" ></textarea></td>
+        </tr>
+        <tr>
+            <th class="th"> City:</th>
+            <td><input type="text" name="city" placeholder="Enter Your city"></td>
+        </tr><tr>
+            <th class="th" > Area Pin:</th>
+            <td><input type="number" name="pin" placeholder="Enter Your pin"></td>
+        </tr>
+        <tr>
+            <th class="th"> State:</th>
+            <td><input type="text" name="state" placeholder="Enter Your state"></td>
+        </tr>
+        <tr>
+            <th class="th"> Qualification:</th>
+            <td><select name="qualification" class="option">
+                <option  value="0">Select Qualification</option>
+                <option  value="1">10th</option>
+                <option  value="2">12th</option>
+                <option  value="3">Graduate</option>
+                <option  value="4">Post Graduation</option>
+            </select></td>
+        </tr>
+        <tr>
+            <th class="th"> Specilation:</th>
+            <td><input type="checkbox" name="ch1">Computer Science<br>
+            <input type="checkbox" name="ch1">Informer Techology</br>
+            <input type="checkbox" name="ch1">Computer architecture<br>
+            <input type="checkbox" name="ch1">tele communication</td>
+        </tr>
+        <tr>
+            <th class="th" > Password:</th>
+            <td><input type="password" name="psw" placeholder="Enter Your password"></td>
+        </tr>
+        <tr>
+        <td><input type="submit" name="submit" value="Registered"></td>
+        </tr>
+      </table>
+    </form>
+</body>
+</html>
