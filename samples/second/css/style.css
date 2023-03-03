@@ -1,0 +1,219 @@
+body
+{
+    margin: 0;
+    padding: 0;
+}
+.centerimage
+{
+    background: url(../image/background.jpg);
+    height: 450px;
+    width: 100%;
+    background-size:  100% 100%;   
+    background-repeat: no-repeat;
+    position: absolute;
+    
+}
+.lefttop
+{
+    background-color: rgb(138, 135, 135,0.6);
+    height: 450px;
+    width: 250px;
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    
+}
+.dreampluse
+{
+    background-color:rgb(138, 135, 135,0.0);
+    height:80px;
+    width: 120px;
+    border: solid 1px white;
+    margin: 30px 30px;
+    padding: 0px;
+
+}
+.dreampluse1
+{
+    background-color:rgb(138, 135, 135,0.0);
+    height:80px;
+    width: 120px;
+    border: solid 1px white;
+    margin: 8px 8px;
+    padding: 0px;
+       
+}
+.dremh2
+{
+    color: white;
+    font-size: 20px;
+    padding: 8px;
+    margin: 5px;
+    font-family: cursive;
+}
+.navigation
+{
+    height: 110px;
+    width: 180px;
+    margin: 0;
+    padding: 0;
+    
+}
+.list
+{
+    list-style-type: none; 
+    color: white;
+    text-align: right;
+    margin: 10px;
+    padding: 20px;
+    position: absolute;
+    margin-top: 0px;
+}
+.list1
+{
+    padding: 3px;
+}
+.lefttopfooter
+{
+    height: 20px;
+    width: 200px;
+    margin-top: 80px;
+    margin-left: 20px;
+    letter-spacing: 8px;
+}
+.fa-facebook-square,.fa-twitter-square,.fa-envelope-square,.fa-linkedin-square
+{
+    color: white;
+    text-align: center;
+    
+}
+.footer
+{
+    color: white;
+    margin: 5px 20px; 
+    padding: 2px;
+    font-size: 12px;
+}
+.topcenter
+{
+    background-color: rgb(255, 255, 2550,0.5);
+    border: rgb(255, 255, 255,0.9) solid 1px;
+    height: 250px;
+    width: 350px;
+    margin: -350px 800px;
+}
+.intro
+{
+    color: rgb(14, 65, 112);
+    padding: 8px;
+    font-size: 25px;    
+}
+.intro1
+{
+    padding: 10px;
+    margin:0px;
+   
+}
+
+.rightblure
+{
+    width: 250px;
+    height: 1500px;
+    background-color: grey;
+    margin-top: 450px;
+}
+.aboutus
+{
+    
+    height: 250px;
+    width: 350px;
+    margin: -1450px 300px;     
+    position:absolute;
+}
+.fa-balance-scale,.fa-building
+{
+    color: rgb(132, 199, 221);
+    margin: 20px 120px;
+        
+}
+.compnyprofile
+{
+    height: 250px;
+    width: 350px;   
+    margin: -1450px 800px;
+    position:absolute;
+}
+.ourwork
+{
+    border: grey double 2px;
+    height: 300px;
+    width: 925px;
+    margin: -1200px 310px;
+    position:absolute;
+}
+.ourwork1
+{
+    border: grey double 2px;
+    height: 300px;
+    width: 925px;
+    margin: -1210px 300px; 
+    position:absolute;   
+}
+.image
+{
+    padding: 5px;
+    margin: 2px;
+    margin-left: 70px;
+}
+.ourclient
+{
+    width: 950px;
+    height: 200px;
+    margin: -850px 300px;
+}
+.logo
+{
+    height: 100px;
+    width: 200px;
+    border: solid grey 1px;
+    box-shadow: 2px 2px 2px  grey;
+}
+.talktous
+{
+    width: 400px;
+    height: 300px;
+    border: grey 1px solid;
+    margin: 1000px 300px;
+    padding: 10px;
+      
+}
+.talktous1
+{
+    width: 400px;
+    height: 300px;
+    border: grey 1px solid;
+    margin: 5px 5px;
+    padding: 10px;
+}
+.feedback
+{
+    margin: -1300px 800px;
+    padding: 20px;
+}
+input[type="text"],input[type="email"], textarea,input
+{
+    width: 350px;
+    border: none;
+    border-bottom: grey 1px solid;
+    margin-top: 30px;
+}
+input[type="submit"]
+{
+    width: 100px;
+    box-shadow: 2px 2px 2px grey;
+    background-color: white;
+}
+td
+{
+    text-align: right;
+}
