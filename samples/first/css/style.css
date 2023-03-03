@@ -2,7 +2,7 @@ body
 {
     overflow-x: hidden;
     background: -webkit-linear-gradient(left,white 60%, lightblue 40%);
-    height: 580px;
+    height: auto;
 }
 p
 {
