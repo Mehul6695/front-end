@@ -1,0 +1,155 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    box-sizing: border-box;
+}
+.navbar
+{
+    width: 100%;
+    height: auto;
+    margin: auto;
+    padding: 0;
+    background-color: #f5511e;
+    /* position: fixed; */
+    
+}
+
+.navbar-link
+{
+    margin-left: 45% !important;
+    
+}
+
+.navbar li
+{
+   
+   display: inline-block;
+   padding: 0px 15px;
+   
+}
+.navbar a
+{
+    text-decoration: none;
+    color: white;
+    list-style-type: none;
+    
+}
+.hero
+{
+    width: 100%;
+    height: auto;
+    background-color: #f5511e;
+    
+    
+}
+.search
+{
+    width: 100%;
+    margin-left: 30%;
+}
+.search-bar
+{
+    width: 100%;
+    /* margin: 1% 38%; */
+    padding: 0% 0% 5%;
+    text-align: center;
+}
+.about-page img
+{
+    width: 50%;
+    height: auto;
+    
+}
+.bi-bar-chart-fill
+{
+    font-size: 250px;
+    color: #f5511e;
+}
+.service h2,.service p
+{
+    text-align: center;
+    
+}
+
+.service-logo
+{
+    font-size: 50px;
+        
+}
+.bi-power,.bi-heart-fill,.bi-lock-fill,.bi-snow2,.bi-telephone-fill,.bi-wrench
+{
+    
+    color: #f5511e;
+}
+.portfoliyo h2,.portfoliyo p,.portfoliyo h5
+{
+    text-align: center;
+}
+.portfoliyo img
+{
+    width: 100%;
+    height: 400px;
+}
+.customer
+{
+    text-align: center;
+}
+
+.z-carousel li { margin: 0; padding: 0; list-style: none; font-family: 'Dancing Script'; font-size: 2.5rem; }
+.princing
+{
+    text-align: center;
+}
+.basic,.pro,.primum
+{
+    background-color: #f5511e;
+}
+.basic-border,.pro-border,.primum-border
+{
+    border: 1px #f5511e solid;
+}
+.contectus
+{
+    text-align: center;
+}
+.address
+{
+    text-align: left;
+}
+.contect-name,.contect-mail
+{
+    width: 49.5%;
+    margin: 5px 0px 5px 0px;
+}
+.bg-white
+{
+    margin-left: 90%;
+}
+
+@media  only screen and (min-width:320px) and (max-width:480px)
+{
+    .search
+    {
+        width: 500px;
+        margin-left: 15%;
+    }
+    .navbar li
+    {
+       
+       display: block;
+       padding: 5px 
+       
+    } 
+    .contect-name,.contect-mail
+{
+    width: 100%;
+}
+.bg-white
+{
+    margin-left: 78%;
+}
+
+}
+
