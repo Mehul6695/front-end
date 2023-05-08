@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mehul6695/travel-free.github.io.git/static/css/main.2642f9a9.css",
+    "main.js": "/Mehul6695/travel-free.github.io.git/static/js/main.94892ed7.js",
+    "static/js/787.847c7220.chunk.js": "/Mehul6695/travel-free.github.io.git/static/js/787.847c7220.chunk.js",
+    "index.html": "/Mehul6695/travel-free.github.io.git/index.html",
+    "main.2642f9a9.css.map": "/Mehul6695/travel-free.github.io.git/static/css/main.2642f9a9.css.map",
+    "main.94892ed7.js.map": "/Mehul6695/travel-free.github.io.git/static/js/main.94892ed7.js.map",
+    "787.847c7220.chunk.js.map": "/Mehul6695/travel-free.github.io.git/static/js/787.847c7220.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2642f9a9.css",
+    "static/js/main.94892ed7.js"
+  ]
+}
