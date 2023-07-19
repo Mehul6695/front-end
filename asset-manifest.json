@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/task.github.io/static/css/main.c5fa918f.css",
-    "main.js": "/task.github.io/static/js/main.51ce00fc.js",
-    "static/js/787.17cf05ef.chunk.js": "/task.github.io/static/js/787.17cf05ef.chunk.js",
-    "static/media/background.jpg": "/task.github.io/static/media/background.a6a22071eadfe96b0822.jpg",
-    "static/media/logo.svg": "/task.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/task.github.io/index.html",
-    "main.c5fa918f.css.map": "/task.github.io/static/css/main.c5fa918f.css.map",
-    "main.51ce00fc.js.map": "/task.github.io/static/js/main.51ce00fc.js.map",
-    "787.17cf05ef.chunk.js.map": "/task.github.io/static/js/787.17cf05ef.chunk.js.map"
+    "main.css": "/taskapp/static/css/main.4279a5b2.css",
+    "main.js": "/taskapp/static/js/main.72a34a9e.js",
+    "static/js/787.0030736e.chunk.js": "/taskapp/static/js/787.0030736e.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/taskapp/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/taskapp/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "static/media/background.jpg": "/taskapp/static/media/background.a6a22071eadfe96b0822.jpg",
+    "index.html": "/taskapp/index.html",
+    "main.4279a5b2.css.map": "/taskapp/static/css/main.4279a5b2.css.map",
+    "main.72a34a9e.js.map": "/taskapp/static/js/main.72a34a9e.js.map",
+    "787.0030736e.chunk.js.map": "/taskapp/static/js/787.0030736e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5fa918f.css",
-    "static/js/main.51ce00fc.js"
+    "static/css/main.4279a5b2.css",
+    "static/js/main.72a34a9e.js"
   ]
 }
